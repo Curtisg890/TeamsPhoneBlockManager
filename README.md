@@ -32,21 +32,14 @@ It uses:
 - Avoid interactive Microsoft 365 sign-in prompts
 
 ## Screenshots
-
-Add screenshots to a directory such as:
-
-```text
-docs/screenshots/
-```
-
-Suggested screenshots:
-
-```text
+ 
+### Block List
+ 
 docs/screenshots/block-list.png
-docs/screenshots/settings.png
-```
-
-Then include them in this README:
+ 
+### Settings
+ 
+docs/screenshots/settings-page.png
 
 ```markdown
 ![Block list](docs/screenshots/block-list.png)
