@@ -429,5 +429,36 @@ FodyWeavers.xsd
 *.msm
 *.msp
 
+# React
+frontend/node*modules/
+*rontend/dist/
+
+# Runtime config
+Se*tings/teamsauth.json
+
+# Certificat*s
+*.pfx
+*.p12
+*.key
+*.crt
+*.pem*
+# Published output
+publish*
+*ublish/
+wwwroot/assets/
+
+# Visual*Studio publish profiles
+Properties**ublishProfiles/
+
+# Logs**.log
+Logs/
+
+# Environment files
+.*nv
+.env.*
+
+#*PowerShell history
+*.ps**ml
+
 # Official VS Code C# Dev Kit Extension exclusion
 #*.lscache
