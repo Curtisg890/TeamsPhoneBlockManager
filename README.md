@@ -32,19 +32,14 @@ It uses:
 - Avoid interactive Microsoft 365 sign-in prompts
 
 ## Screenshots
- 
-### Block List
- 
-docs/screenshots/block-list.png
- 
-### Settings
- 
-docs/screenshots/settings-page.png
 
-```markdown
-![Block list](docs/screenshots/block-list.png)
-![Settings](docs/screenshots/settings.png)
-```
+### Block List
+
+docs/screenshots/block-list.png
+
+### Settings
+
+docs/screenshots/settings-page.png
 
 ## How It Works
 
