@@ -1,0 +1,6 @@
+@TeamsBlockManager_HostAddress = http://localhost:5165
+
+GET {{TeamsBlockManager_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,31 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+# React
+frontend/node_modules/
+frontend/dist/
+
+# Runtime settings
+Settings/teamsauth.json
+
+# Certificates
+*.pfx
+*.p12
+*.key
+*.pem
+
+# Logs
+*.log
+Logs/
+
+# Publish output
+publish/
+Publish/
+
+# Environment files
+.env
+.env.*
