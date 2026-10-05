@@ -1,5 +1,9 @@
 # Microsoft Teams Phone Block Manager
 
+[![License](https://img.shields.io/github/license/Curtisg890/TeamsPhoneBlockManager[![Stars](https://img.shields.io/github/stars/Curtisg890/TeamsPhoneBlockManager)ithub.com/Curtisg890/TeamsPhoneBlockManager/stargazers)
+
+[![Issues](https://img.shields.io/github/issues/Curtisg890/TeamsPhoneBlockManager)](https://urtisg890/TeamsPhoneBlockManager/issues)
+
 Microsoft Teams Phone Block Manager is an open-source web application for managing the tenant-wide inbound PSTN blocked-number list in Microsoft Teams.
 
 The application provides a browser-based interface for viewing, searching, adding, and deleting blocked phone-number patterns without requiring administrators to run Teams PowerShell commands manually.
@@ -33,25 +37,13 @@ It uses:
 
 ## Screenshots
 
-Add screenshots to a directory such as:
+### Block List
 
-```text
-docs/screenshots/
-```
+<img src="docs/screenshots/block-list.png">
 
-Suggested screenshots:
+### Settings
 
-```text
-docs/screenshots/block-list.png
-docs/screenshots/settings.png
-```
-
-Then include them in this README:
-
-```markdown
-![Block list](docs/screenshots/block-list.png)
-![Settings](docs/screenshots/settings.png)
-```
+<img src="docs/screenshots/settings-page.png">
 
 ## How It Works
 
