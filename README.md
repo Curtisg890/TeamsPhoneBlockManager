@@ -35,11 +35,11 @@ It uses:
 
 ### Block List
 
-docs/screenshots/block-list.png
+<img src="docs/screenshots/block-list.png">
 
 ### Settings
 
-docs/screenshots/settings-page.png
+<img src="docs/screenshots/settings-page.png">
 
 ## How It Works
 
